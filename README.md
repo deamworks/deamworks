@@ -57,10 +57,6 @@ Right now, I am exploring my interests to discover what I truly enjoy. Please ch
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deamworks&stroke=ffffff&background=312e81&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
-<a href="http://www.github.com/deamworks">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=deamworks&bg_color=312e81&color=ffffff&line=6366f1&point=ffffff&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
-
 <a href="https://github.com/deamworks" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deamworks&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=6366f1&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
