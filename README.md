@@ -8,11 +8,11 @@ Right now, I am exploring my interests to discover what I truly enjoy. Please ch
 
 - 🌍 I'm based in Thailand  
 - ✉️ You can contact me at [putita.chaleeprom12@gmail.com](mailto:putita.chaleeprom12@gmail.com)  
-- 🧠 I'm learning UX / UI Skills  
+- 🧠 I'm learning UX / UI  
 
 ---
 
-### **Skills**  
+## **Skills**  
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
@@ -36,7 +36,7 @@ Right now, I am exploring my interests to discover what I truly enjoy. Please ch
 
 ---
 
-### **Socials**  
+## **Socials**  
 <p align="left">
 <a href="https://www.github.com/deamworks" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
@@ -45,8 +45,9 @@ Right now, I am exploring my interests to discover what I truly enjoy. Please ch
 
 ---
 
-### **Badges**  
-#### **My GitHub Stats**  
+## **Badges**  
+
+### **My GitHub Stats**  
 
 <a href="http://www.github.com/deamworks">
 <img src="https://github-readme-stats.vercel.app/api?username=deamworks&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=581c87&hide_border=true&show_icons=true" alt="deamworks's GitHub stats" />
@@ -54,6 +55,10 @@ Right now, I am exploring my interests to discover what I truly enjoy. Please ch
 
 <a href="http://www.github.com/deamworks">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deamworks&stroke=ffffff&background=581c87&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
+
+<a href="http://www.github.com/deamworks">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=deamworks&bg_color=581c87&color=ffffff&line=a855f7&point=ffffff&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </a>
 
 <a href="https://github.com/deamworks" align="left">
