@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## Student  
 
-I am a second-year student at Rangsit University, Faculty of Engineering, majoring in Computer Engineering.  
+I am a third-year student at Rangsit University, Faculty of Engineering, majoring in Computer Engineering.  
 Right now, I am exploring my interests to discover what I truly enjoy. Please cheer me on! 😊  
 
 - 🌍 I'm based in Thailand  
