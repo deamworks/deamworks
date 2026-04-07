@@ -1,55 +1,54 @@
-# Hi there 👋  
-## I'm Putita Chaleeprom  
+# Hi there 👋
+# My name is Putita Chaleeprom
 
-🎓 Third-year Computer Engineering student at Rangsit University  
-💡 Currently exploring interests in UX/UI and Full-Stack Development  
-🚀 Passionate about building real-world applications and improving user experience  
+## Student
 
----
+I am a third-year student at Rangsit University, Faculty of Engineering, majoring in Computer Engineering.  
+Right now, I am exploring my interests to discover what I truly enjoy. Please cheer me on!
 
-## 🌱 About Me  
-- 🇹🇭 Based in Thailand  
-- 📚 Currently learning **UX/UI Design & Web Development**  
-- 🎯 Goal: Become a Full-Stack Developer with strong UX thinking  
-- 💬 Open to internship opportunities (June – August 2026)  
+- 🌍 I'm based in Thailand
+- ✉️ You can contact me at putita.chaleeprom12@gmail.com
+- 🧠 I'm learning UX / UI
 
 ---
 
-## 🛠️ Skills  
+## Skills
 <p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+  </a>
 </p>
 
 ---
 
-## 📌 Projects  
-🔹 *Coming Soon...*  
-- UI/UX Design (Figma)  
-- Web Application (Frontend + Backend)  
-- Data Analysis Dashboard  
+## Socials
+<p align="left">
+  <a href="https://github.com/deamworks" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## 📫 Contact  
-- Email: putita.chaleeprom12@gmail.com  
-- GitHub: https://github.com/deamworks  
+## GitHub Stats
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deamworks&show_icons=true&theme=tokyonight)
 
-## 📊 GitHub Stats  
-<a href="https://github.com/deamworks">
-<img src="https://github-readme-stats.vercel.app/api?username=deamworks&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-</a>
+![GitHub Streak](https://streak-stats.demolab.com?user=deamworks&theme=tokyonight)
 
-<a href="https://github.com/deamworks">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deamworks&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/deamworks">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deamworks&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deamworks&layout=compact&theme=tokyonight)
